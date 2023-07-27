@@ -1,11 +1,11 @@
 navbar_entries:
-  - title: about
+  - title: 关于
     url: about
 
-  - title: blog
+  - title: 博客
     url: blog
 
-  - title: website
+  - title: 网站
     url: https://www.abhinav.co
 
 project_entries:
