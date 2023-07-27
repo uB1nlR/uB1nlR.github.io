@@ -1,7 +1,8 @@
 title: uB1nlR's blog.
 author: uB1nlR
-url: https://www.abhinavsaxena.com/moonwalk # root address of the site
+url: https://ub1nlr.github.io/ # root address of the site
 description: > # description of the site (multiple lines allowed)
+  欢迎来到uB1nlR的博客！
   Welcome to uB1nlR's blog!
 
 permalink: /:slug
