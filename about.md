@@ -3,6 +3,7 @@ layout: post
 title: About
 ---
 
-This is an example page!
-
-Actually, it has the same layout of a post...
+欢迎来到uB1nlR的博客！
+Welcome to uB1nlR's blog!
+博客基于Github Pages搭建
+主题为Moonwalk
