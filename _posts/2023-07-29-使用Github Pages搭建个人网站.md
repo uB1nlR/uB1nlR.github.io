@@ -21,6 +21,6 @@ http://jekyllthemes.org/
 此网站提供多种Jekyll模板，您可以从中选择，我将以本网站使用的Moonwalk主题为例
 
 点击Homepage
-![](images\2023-07-29\01.png)
+![](https://raw.githubusercontent.com/uB1nlr/ub1nlr.github.io/master/_posts/images/2023-07-29/01.png)
 
 # 还没写完，不要着急奥
