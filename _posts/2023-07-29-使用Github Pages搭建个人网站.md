@@ -21,7 +21,7 @@ http://jekyllthemes.org/
 此网站提供多种Jekyll模板，您可以从中选择，我将以本网站使用的Moonwalk主题为例
 
 点击Homepage
-![](https://cdn.jsdelivr.net/gh/ub1nlr/ub1nlr.github.io/_posts/images/2023-07-29/01.png)
+![](https://cdn.jsdelivr.net/gh/ub1nlr/ub1nlr.github.io/img/2023-07-29/01.png)
 
 # 还没写完，不要着急奥
 nnd图片怎么加哼哼啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊
