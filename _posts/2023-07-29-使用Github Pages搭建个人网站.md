@@ -24,4 +24,5 @@ http://jekyllthemes.org/
 ![](https://cdn.jsdelivr.net/gh/ub1nlr/ub1nlr.github.io/img/2023-07-29/01.png)
 
 # 还没写完，不要着急奥
-nnd图片怎么加哼哼啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊
+最近没时间写捏
+还有，G2 UP！！！
