@@ -15,7 +15,7 @@
 
 官网地址：<https://github.com/>
 
-### 2.选择主题
+### 2.选择主题并复制存储库
 <http://jekyllthemes.org/>
 
 此网站提供多种Jekyll模板，您可以从中选择，我将以本网站使用的Moonwalk主题为例
@@ -32,15 +32,17 @@
 
 ![][04]
 
-Owner创建者------不用动
+- Owner创建者------不用动
 
-Repository name存储库名字------**username**.github.io (**username**即为您的Github账户名)
+- Repository name存储库名字------**username**.github.io (**username**即为您的Github账户名)
 
-Description存储库介绍------非必填项
+- Description存储库介绍------非必填项
 
-Copy the main branch only------勾选
+- Copy the main branch only------勾选
 
+- 最后Create fork
 
+### 3.网站，启动！
 
 [01]: https://cdn.jsdelivr.net/gh/ub1nlr/ub1nlr.github.io/img/2023-07-29/01.png
 [02]: https://cdn.jsdelivr.net/gh/ub1nlr/ub1nlr.github.io/img/2023-07-29/02.png
