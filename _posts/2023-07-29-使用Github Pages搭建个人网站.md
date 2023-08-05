@@ -20,6 +20,15 @@
 
 此网站提供多种Jekyll模板，您可以从中选择，我将以本网站使用的Moonwalk主题为例
 
-点击Homepage
-![](https://cdn.jsdelivr.net/gh/ub1nlr/ub1nlr.github.io/img/2023-07-29/01.png)
+![][01]
+点击Homepage，进入此主题的Github存储库
+![][02]
+点击Fork复制此存储库
+![][03]
+存储库名字为 用户名.github.io (用户名即为您的Github账户名)
 
+
+
+[01]: https://cdn.jsdelivr.net/gh/ub1nlr/ub1nlr.github.io/img/2023-07-29/01.png
+[02]: https://cdn.jsdelivr.net/gh/ub1nlr/ub1nlr.github.io/img/2023-07-29/02.png
+[03]: https://cdn.jsdelivr.net/gh/ub1nlr/ub1nlr.github.io/img/2023-07-29/03.png
