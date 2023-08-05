@@ -30,11 +30,19 @@
 
 ![][03]
 
-存储库名字为 **用户名.github.io** (用户名即为您的Github账户名)
-且存储库需要公开
+![][04]
+
+Owner创建者------不用动
+
+Repository name存储库名字------**username**.github.io (**username**即为您的Github账户名)
+
+Description存储库介绍------非必填项
+
+Copy the main branch only------勾选
 
 
 
 [01]: https://cdn.jsdelivr.net/gh/ub1nlr/ub1nlr.github.io/img/2023-07-29/01.png
 [02]: https://cdn.jsdelivr.net/gh/ub1nlr/ub1nlr.github.io/img/2023-07-29/02.png
 [03]: https://cdn.jsdelivr.net/gh/ub1nlr/ub1nlr.github.io/img/2023-07-29/03.png
+[04]: https://cdn.jsdelivr.net/gh/ub1nlr/ub1nlr.github.io/img/2023-07-29/04.png
