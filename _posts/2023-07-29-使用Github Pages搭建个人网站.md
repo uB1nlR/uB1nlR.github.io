@@ -13,16 +13,13 @@
 ### 1.注册Github账号
 若已拥有Github账号，请跳过此步骤
 
-官网地址：https://github.com/
+官网地址：<https://github.com/>
 
 ### 2.选择主题
-http://jekyllthemes.org/
+<http://jekyllthemes.org/>
 
 此网站提供多种Jekyll模板，您可以从中选择，我将以本网站使用的Moonwalk主题为例
 
 点击Homepage
 ![](https://cdn.jsdelivr.net/gh/ub1nlr/ub1nlr.github.io/img/2023-07-29/01.png)
 
-# 还没写完，不要着急奥
-最近没时间写捏
-还有，G2 UP！！！
