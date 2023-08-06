@@ -42,7 +42,7 @@
 
 - 最后Create fork
 
-### 3.网站，启动！
+### 3.网站，启动
 
 [01]: https://cdn.jsdelivr.net/gh/ub1nlr/ub1nlr.github.io/img/2023-07-29/01.png
 [02]: https://cdn.jsdelivr.net/gh/ub1nlr/ub1nlr.github.io/img/2023-07-29/02.png
