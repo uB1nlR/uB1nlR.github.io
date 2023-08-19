@@ -52,7 +52,7 @@
 Branch下选择master-/(root)并点击save
 
 刷新页面，等待出现
-> Your site is live at https://username.github.io/**
+> Your site is live at https://username.github.io/
 
 即可点击**Visit site**访问网站力
 
