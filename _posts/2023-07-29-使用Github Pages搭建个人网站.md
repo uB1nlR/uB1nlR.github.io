@@ -43,8 +43,21 @@
 - 最后Create fork
 
 ### 3.网站，启动!
+进入创建的博客仓库-Settings-Pages-Build and deployment
+
+![][05]
+
+选择Deploy from a branch
+
+Branch下选择master-/(root)并点击save
+
+刷新页面，等待出现
+> Your site is live at https://username.github.io/**
+
+即可点击**Visit site**访问网站力
 
 [01]: https://cdn.jsdelivr.net/gh/ub1nlr/ub1nlr.github.io/img/2023-07-29/01.png
 [02]: https://cdn.jsdelivr.net/gh/ub1nlr/ub1nlr.github.io/img/2023-07-29/02.png
 [03]: https://cdn.jsdelivr.net/gh/ub1nlr/ub1nlr.github.io/img/2023-07-29/03.png
 [04]: https://cdn.jsdelivr.net/gh/ub1nlr/ub1nlr.github.io/img/2023-07-29/04.png
+[05]: https://cdn.jsdelivr.net/gh/ub1nlr/ub1nlr.github.io/img/2023-07-29/05.png
