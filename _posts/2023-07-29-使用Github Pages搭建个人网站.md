@@ -56,8 +56,8 @@ Branch下选择master-/(root)并点击save
 
 即可点击**Visit site**访问网站力
 
-[01]: https://cdn.jsdelivr.net/gh/ub1nlr/ub1nlr.github.io/img/2023-07-29/01.png
-[02]: https://cdn.jsdelivr.net/gh/ub1nlr/ub1nlr.github.io/img/2023-07-29/02.png
-[03]: https://cdn.jsdelivr.net/gh/ub1nlr/ub1nlr.github.io/img/2023-07-29/03.png
-[04]: https://cdn.jsdelivr.net/gh/ub1nlr/ub1nlr.github.io/img/2023-07-29/04.png
-[05]: https://cdn.jsdelivr.net/gh/ub1nlr/ub1nlr.github.io/img/2023-07-29/05.png
+[01]: https://cdn.staticaly.com/gh/uB1nlR/picx-images-hosting@master/2023-07-29/01.13v87h42og5c.webp
+[02]: https://cdn.staticaly.com/gh/uB1nlR/picx-images-hosting@master/2023-07-29/02.1zod47jdo5b4.webp
+[03]: https://cdn.staticaly.com/gh/uB1nlR/picx-images-hosting@master/2023-07-29/03.6x53p8ldbdg0.webp
+[04]: https://cdn.staticaly.com/gh/uB1nlR/picx-images-hosting@master/2023-07-29/04.5fuq8a7eugo0.webp
+[05]: https://cdn.staticaly.com/gh/uB1nlR/picx-images-hosting@master/2023-07-29/05.6p6rp90onz80.webp
