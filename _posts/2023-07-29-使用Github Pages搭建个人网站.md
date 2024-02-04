@@ -20,17 +20,17 @@
 
 此网站提供多种Jekyll模板，您可以从中选择，我将以本网站使用的Moonwalk主题为例
 
-![][01]
+![01](https://jsd.cdn.zzko.cn/gh/uB1nlR/picx-images-hosting@master/20230729/01.jpg)
 
 点击Homepage，进入此主题的Github存储库
 
-![][02]
+![02](https://jsd.cdn.zzko.cn/gh/uB1nlR/picx-images-hosting@master/20230729/02.jpg)
 
 点击Fork复制此存储库
 
-![][03]
+![03](https://jsd.cdn.zzko.cn/gh/uB1nlR/picx-images-hosting@master/20230729/03.jpg)
 
-![][04]
+![04](https://jsd.cdn.zzko.cn/gh/uB1nlR/picx-images-hosting@master/20230729/04.jpg)
 
 - Owner创建者------不用动
 
@@ -45,7 +45,7 @@
 ### 3.网站，启动!
 进入创建的博客仓库-Settings-Pages-Build and deployment
 
-![][05]
+![05](https://jsd.cdn.zzko.cn/gh/uB1nlR/picx-images-hosting@master/20230729/05.jpg)
 
 选择Deploy from a branch
 
@@ -55,9 +55,3 @@ Branch下选择master-/(root)并点击save
 > Your site is live at https://username.github.io/
 
 即可点击**Visit site**访问网站力
-
-[01]: https://cdn.staticaly.com/gh/uB1nlR/picx-images-hosting@master/2023-07-29/01.13v87h42og5c.webp
-[02]: https://cdn.staticaly.com/gh/uB1nlR/picx-images-hosting@master/2023-07-29/02.1zod47jdo5b4.webp
-[03]: https://cdn.staticaly.com/gh/uB1nlR/picx-images-hosting@master/2023-07-29/03.6x53p8ldbdg0.webp
-[04]: https://cdn.staticaly.com/gh/uB1nlR/picx-images-hosting@master/2023-07-29/04.5fuq8a7eugo0.webp
-[05]: https://cdn.staticaly.com/gh/uB1nlR/picx-images-hosting@master/2023-07-29/05.6p6rp90onz80.webp
